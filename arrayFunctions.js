@@ -55,8 +55,7 @@ function addLailaToArray(instructors) {
  */
 function eliminateTeam(teams) {
   // Your code here
-  teams.pop();
-  return teams;
+  return teams.pop();
 }
 
 /**
